@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+}
+
+.calc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*add functionality to change the color of the calculator and text*/
+input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: CHARTREUSE;
+    background-color: black;
+    padding:45px;
+
+}
